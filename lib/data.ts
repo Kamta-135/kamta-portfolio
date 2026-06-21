@@ -8,11 +8,11 @@ export const SITE = {
     "LangChain Builder",
   ],
   location: "Bhopal, Madhya Pradesh, India",
-  phone: "7828817176",
+  phone: "+917828817176",
   email: "Kamtaprasadrathour559@gmail.com",
   linkedin: "https://www.linkedin.com/in/kamta-prasad-rathour-36116833a/",
   github: "https://github.com/Kamta-135",
-  resumePath: "/resume/Kamta_Prasad_Rathour_ATS_Resume.pdf",
+  resumePath: resumePath: "public/resume/Kamta_Prasad_Rathour_ATS_Resume.pdf",
 };
 
 export const ABOUT = `I am a Computer Science and Engineering graduate passionate about Python Development, Artificial Intelligence, Generative AI, LLMs, RAG, LangChain, Docker, and modern web technologies. I enjoy building real-world AI-powered applications and continuously learning new technologies. My goal is to contribute to innovative products while growing as a Full Stack and AI Engineer.`;
