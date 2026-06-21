@@ -12,7 +12,7 @@ export const SITE = {
   email: "Kamtaprasadrathour559@gmail.com",
   linkedin: "https://www.linkedin.com/in/kamta-prasad-rathour-36116833a/",
   github: "https://github.com/Kamta-135",
-  resumePath: "/resume/Kamta-Prasad-Rathour-Resume.pdf",
+  resumePath: "/resume/Kamta_Prasad_Rathour_ATS_Resume.pdf",
 };
 
 export const ABOUT = `I am a Computer Science and Engineering graduate passionate about Python Development, Artificial Intelligence, Generative AI, LLMs, RAG, LangChain, Docker, and modern web technologies. I enjoy building real-world AI-powered applications and continuously learning new technologies. My goal is to contribute to innovative products while growing as a Full Stack and AI Engineer.`;
